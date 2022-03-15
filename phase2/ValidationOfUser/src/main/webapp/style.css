@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+body{
+	background-color:Gray;
+}
+h1{
+	font-family:sans-serif;
+	
+}
+#email{
+    width: 35%;
+    padding: 12px;
+    margin:8px;
+   
+}
+#password{
+    width: 35%;
+    padding: 12px;
+    margin:8px;
+
+}
+#btn{
+    width:12%;
+    padding:12px;
+    margin:8px;
+
+
+}
